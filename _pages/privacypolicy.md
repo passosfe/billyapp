@@ -18,10 +18,6 @@ This policy applies to all information collected or submitted on Billy’s app f
 New Billy accounts are created anonymously, without email addresses or passwords.
 You may optionally add an email address and a password, or link your social account (Facebook or Apple) to your Billy account, or remove the email address and password from your account, at any time in Billy’s app. Email addresses are only used for logging in, password resets, responding to emails that you initiate, user interactions and sending notifications that you request. We don’t send promotional emails.
 
-### 1.1 Information from third parties
-
-### 1.2 Information you provide to us
-
 <br>
 
 ## 2.0 Technical basics
