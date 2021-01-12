@@ -317,7 +317,8 @@ nav > ul li a:active {
 }
 
 .downloadButtonsContainer {
-  display: inline-block;
+  display: flex;
+  align-items: center;
   margin-top: 42px;
   filter: $drop-shadow;
 }
